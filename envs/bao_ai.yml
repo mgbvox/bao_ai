@@ -1,4 +1,4 @@
-name: fastai
+name: bao_ai
 channels:
   - pytorch
   - conda-forge
@@ -164,5 +164,5 @@ dependencies:
   - pip:
     - pyqt5-sip==4.19.18
     - pyqtwebengine==5.12.1
-prefix: /Users/mgb/opt/anaconda3/envs/fastai
+prefix: /Users/mgb/opt/anaconda3/envs/bao_ai
 
