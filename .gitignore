@@ -1,5 +1,6 @@
 #Dirs
-andrew_course/car_data/**
+andrew_course/car_data/data**
+andrew_course/car_data/models**
 
 
 # Created by https://www.gitignore.io/api/macos,pycharm,linux,jupyter
